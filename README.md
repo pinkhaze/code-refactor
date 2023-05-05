@@ -18,7 +18,7 @@ In order to meet these requirements, the following
 
 ## Installation
 
-NA
+[Click here to see the deployed application](https://pinkhaze.github.io/module-1-challenge/)
 
 ## Usage
 
