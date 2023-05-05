@@ -24,13 +24,9 @@ NA
 
 ## Usage
 
+![screenshot-1 png](https://user-images.githubusercontent.com/55771228/236385489-abbd3f58-aa81-4a18-aa9a-302a1e1b6d48.png)
 Provide instructions and examples for use. Include screenshots as needed.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-![Screenshot](.module-1-challenge/assets/images/screenshot-1.png)
-
-![Screenshot](/module-1-challenge/assets/images/screenshot-2.png)
 
 
 
