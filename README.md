@@ -2,19 +2,20 @@
 
 ## Description
 
-The purpose of this project is to refactor existing code to meet certain requirements, which are designed to improve the following: 
- * improve web accessibility for users assitive technologies
- * optimize the webpage for search engine results 
- * increase the efficiency of the CSS file
+The purpose of this project is to refactor existing code to meet certain requirements, with the end results being the following: 
+ * improved web accessibility for users using assitive technologies
+ * optimized search engine results for the webpage
+ * increased efficiency of the CSS file
 
-In order to meet these requirements, the following 
- * fix broken links
- * consolidate CSS selectors and properties
- * organize CSS elements to follow the semantic structure of HTML elements
- * add comments to CSS file
- * structure HTML elements according to semantic styling
- * add accessible alt attributes
- * add a descriptive title 
+In order to meet these requirements, the following task were undertaken:
+ * added comments to CSS file
+ * structured HTML elements according to semantic styling
+ * added accessible alt attributes
+ * added a descriptive title 
+ * fixed broken links
+ * consolidated CSS selectors and properties
+ * organized CSS elements to follow the semantic structure of HTML elements
+ * added comments to CSS file
 
 ## Installation
 
